@@ -12,3 +12,8 @@ There is an inherent risk of not using proper voltage translation, but I would p
 
 If I get time, I will add proper voltage translation to the board.
 The current design was just a way to get a quick version done for the few devs who might be able to make use of it.
+
+![Eagle PCB screenshot](/images/Eagle_PCB_screenshot.png)
+
+![PCB photo, older proto](/images/PCB_photo_older.jpg)
+
